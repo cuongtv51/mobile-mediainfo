@@ -3,6 +3,6 @@ use_frameworks!
 target 'mobile-mediainfo_Example' do
   pod 'mobile-mediainfo', :path => '../'
   pod 'Toast-Swift', '~> 3.0.1'
-  pod 'NewPopMenu', '~> 2.0'
+  pod 'NewPopMenu', '~> 2.1.2'
   pod 'TPInAppReceipt'
 end
